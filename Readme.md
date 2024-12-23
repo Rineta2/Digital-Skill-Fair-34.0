@@ -2,7 +2,7 @@
 
 A modern, interactive website showcasing Risograph printing services with drag-and-drop color mixing, interactive galleries, and responsive design.
 
-![Website Preview](https://digital-skill-fair-34-0-by-rizki-ramadhan.vercel.app/)
+![Website Preview](src/assets/priview/priview.png)
 
 ## 🌟 Features
 
@@ -88,6 +88,10 @@ git clone https://github.com/yourusername/digital-skill-fair.git
 
 - Email: rr8027896@gmail.com
 - Instagram: [@rzkir.20\_](https://www.instagram.com/rzkir.20/)
+
+## 🔗 Link
+
+- [Live Demo](https://digital-skill-fair-34-0-by-rizki-ramadhan.vercel.app)
 
 ## 📄 License
 
