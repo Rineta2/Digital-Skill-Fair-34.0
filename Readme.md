@@ -65,18 +65,20 @@ git clone https://github.com/yourusername/digital-skill-fair.git
 
 ## 📦 Project Structure
 
-├── index.html
-├── src/
-│ ├── styling/
-│ │ └── style.css
-│ ├── js/
-│ │ └── main.js
-│ └── assets/
-│ ├── nav/
-│ ├── header/
-│ ├── content/
-│ ├── sony-inks/
-│ └── prepping/
+digital-skill-fair-34-0/
+├── 📄 index.html # Main HTML file
+├── 📂 src/
+│ ├── 📂 styling/ # CSS and styling files
+│ │ └── 📄 style.css
+│ ├── 📂 js/ # JavaScript files
+│ │ └── 📄 main.js
+│ └── 📂 assets/ # Images, icons, and media
+│ ├── 📂 nav/
+│ ├── 📂 header/
+│ ├── 📂 content/
+│ ├── 📂 sony-inks/
+│ └── 📂 prepping/
+└── 📄 README.md # Project documentation
 
 ## 🎨 Color Palette
 
