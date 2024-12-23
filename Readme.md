@@ -66,12 +66,13 @@ git clone https://github.com/yourusername/digital-skill-fair.git
 ## 📦 Project Structure
 
 digital-skill-fair-34-0/
+
 ├── 📂 src/
-│ ├── 📂 assets/ # Gambar, ikon, dan media
-│ └── 📂 styling/ # File CSS dan styling
-│ └── 📂 js/ # File JavaScript
-├── 📄 index.html # File HTML utama
-└── 📄 README.md # Dokumentasi proyek
+│ ├── 📂 assets/ # Images, icons, and media
+│ └── 📂 styling/ # CSS and styling files
+│ └── 📂 js/ # JavaScript files
+├── 📄 index.html # Main HTML file
+└── 📄 README.md # Project documentation
 
 ## 🎨 Color Palette
 
