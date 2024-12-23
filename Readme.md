@@ -67,9 +67,12 @@ git clone https://github.com/yourusername/digital-skill-fair.git
 
 digital-skill-fair-34-0/
 
+## 📦 Project Structure
+
+digital-skill-fair-34-0/
 ├── 📂 src/
 │ ├── 📂 assets/ # Images, icons, and media
-│ └── 📂 styling/ # CSS and styling files
+│ ├── 📂 styling/ # CSS and styling files
 │ └── 📂 js/ # JavaScript files
 ├── 📄 index.html # Main HTML file
 └── 📄 README.md # Project documentation
