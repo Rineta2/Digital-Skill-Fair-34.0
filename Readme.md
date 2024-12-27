@@ -54,6 +54,8 @@ A modern, interactive website showcasing Risograph printing services with drag-a
 - JavaScript
 - Boxicons
 - Modern CSS Grid/Flexbox
+- GSAP
+- ScrollReveal
 
 ## 💻 Setup
 
